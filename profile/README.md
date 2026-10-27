@@ -45,8 +45,8 @@ models you own — that's the future we're building toward.
 
 ## Where to find us
 
-- 🌐 [xvoidsx.org](https://xvoidsx.org)
-- 🖥️ [navi.xvoidsx.org](https://navi.xvoidsx.org)
-- 🤗 [Hugging Face](https://huggingface.co/xxvoidsxx)
-- 🐘 [neighborli.xyz](https://neighborli.xyz)
-- 📝 [rav3ndust.xyz](https://rav3ndust.xyz)
+- 🌐 [xvoidsx.org](https://xvoidsx.org): our website.
+- 🖥️ [navi.xvoidsx.org](https://navi.xvoidsx.org): the website for **navi**, our linux distro.
+- 🤗 [Hugging Face](https://huggingface.co/xxvoidsxx): our **Hugging Face**, where we keep models and papers.
+- 🐘 [neighborli.xyz](https://neighborli.xyz): **neighborli** is our fediverse instance.
+- 📝 [rav3ndust.xyz](https://rav3ndust.xyz): rav3ndust's personal website
