@@ -1,8 +1,9 @@
 # xvoidsx
 
 xvoidsx is a small independent collective building open software for a
-fun, free, and open web. Two people: Raven builds the programming and
-integrations, Ryoko owns the design.
+fun, free, and open web. Two people: [Raven](https://github.com/rav3ndust)
+builds the programming and integrations, [Ryoko](https://github.com/RyokoUmbra)
+owns the design.
 
 ## What we make
 
@@ -48,3 +49,4 @@ models you own — that's the future we're building toward.
 - 🖥️ [navi.xvoidsx.org](https://navi.xvoidsx.org)
 - 🤗 [Hugging Face](https://huggingface.co/xxvoidsxx)
 - 🐘 [neighborli.xyz](https://neighborli.xyz)
+- 📝 [rav3ndust.xyz](https://rav3ndust.xyz)
